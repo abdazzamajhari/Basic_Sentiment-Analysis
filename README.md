@@ -1,3 +1,3 @@
-# Basic_Sentiment-Analysis for Project Data Science BisaAI Training
+# Basic Sentiment Analysis for Project Data Science BisaAI Training
 
-Sentiment Analysis using Multinomial Naive Bayes
+Sentiment Analysis Dasar menggunakan Multinomial Naive Bayes
